@@ -56,7 +56,8 @@ Below are the 12 visualizations we tested, ranked from least accurate to most ac
 1:  
 ![1: Green visualization 3](https://github.com/jmlynch0906/zach-rioux-a3/blob/2de53e24fab62cd46290795d7d8d241f1e61e3b3/test%20screenshots/green3.png)  
 
-While the results seem relatively mixed, the blue and green heat maps seemed to be the most and least accurate. The red heat maps had medium accuracy. More testing may need to be done to see if this phenomenon is a result of our study or an actual result of the colors.
+While the results seem relatively mixed, the blue and green heat maps seemed to be the most and least accurate. The red heat maps had medium accuracy. More testing may need to be done to see if this phenomenon is a result of our study or an actual result of the colors. Below is the graph of the log2 errors of the experiment results.  
+![Final figure](https://github.com/jmlynch0906/zach-rioux-a3/blob/15f14720321a12fd452c41a31ed30ef3878b60c7/analysis-scripts/ordered_by_log_2_error.png)  
 Design Achievements:
 - Use and modification of reVISit (we thought this would give the best results)
 - Help button brought the participant back to the tutorial
